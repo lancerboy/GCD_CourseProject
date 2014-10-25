@@ -1,18 +1,18 @@
 GCD_CourseProject
 =================
 This directory contains 2 files other than the README.md <br>
-1. run_analysis.R
-2. CodeBook.md
-
-run_analysis.R
-This file performs the following analysis:
-A. Merges the training and the test sets to create one data set 
-B. Extracts only the measurements on the mean and standard deviation for each measurement.
-C. Uses descriptive activity names to name the activities in the data set.
-D. Appropriately labels the data set with descriptive variable names.
-E. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
-To the dataset obtained from: 
+1. run_analysis.R<br>
+2. CodeBook.md<br>
+<br>
+run_analysis.R<br>
+This file performs the following analysis:<br>
+A. Merges the training and the test sets to create one data set <br>
+B. Extracts only the measurements on the mean and standard deviation for each measurement.<br>
+C. Uses descriptive activity names to name the activities in the data set.<br>
+D. Appropriately labels the data set with descriptive variable names.<br>
+E. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br>
+<br>
+To the dataset obtained from: <br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 This script assumes that you have downloaded and unzipped the file first and set your working directory to the parent unzipped folder ("UCI HAR Dataset") which contains the rest of the files needed for this script to run.
