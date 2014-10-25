@@ -1,10 +1,10 @@
 GCD_CourseProject
 =================
-This directory contains 2 files other than the README.md
+This directory contains 2 files other than the README.md <br>
 1. run_analysis.R
 2. CodeBook.md
 
-1. run_analysis.R
+run_analysis.R
 This file performs the following analysis:
 A. Merges the training and the test sets to create one data set 
 B. Extracts only the measurements on the mean and standard deviation for each measurement.
