@@ -34,14 +34,14 @@ Notes:
 
 Process:
 ======
-The following transformations / steps were done to clean up the data:
-1. The data from the 3 files in the "Test" folder were extracted into R
-2. Appropriate variable names were assigned to each of the variables from the "Test" files
-3. The 3 "Test" files were column bound into a single "Test" file
-4. The data from the 3 files in the "Train" folder were extracted into R
-5. Appropriate variable names were assigned to each of the variables from the "Train" files
-6. The 3 "Train" files were column bound into a single "Train" file
-7. The "Test" file and "Train" file were combined into a single "Dataset" file using row binding (since they had the same number of columns in the same positions)
-8. Columns that contained variables for mean and standard deviation were subsetted along with the variables for Subject and Activity using regular expressions
-9. Activity Codes were replaced with descriptive Activity Labels by matching them according the activity_labels.txt file
+The following transformations / steps were done to clean up the data:<br>
+1. The data from the 3 files in the "Test" folder were extracted into R<br>
+2. Appropriate variable names were assigned to each of the variables from the "Test" files<br>
+3. The 3 "Test" files were column bound into a single "Test" file<br>
+4. The data from the 3 files in the "Train" folder were extracted into R<br>
+5. Appropriate variable names were assigned to each of the variables from the "Train" files<br>
+6. The 3 "Train" files were column bound into a single "Train" file<br>
+7. The "Test" file and "Train" file were combined into a single "Dataset" file using row binding (since they had the same number of columns in the same positions)<br>
+8. Columns that contained variables for mean and standard deviation were subsetted along with the variables for Subject and Activity using regular expressions<br>
+9. Activity Codes were replaced with descriptive Activity Labels by matching them according the activity_labels.txt file<br>
 10. The dplyr package was used to group the dataset by Subject & Activity and report the mean for each column
