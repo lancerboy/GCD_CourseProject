@@ -1,8 +1,8 @@
 GCD_CourseProject
 =================
 This directory contains 2 files other than the README.md <br>
-1. run_analysis.R<br>
-2. CodeBook.md<br>
+<b>1. run_analysis.R</b><br>
+<b>2. CodeBook.md</b><br>
 <br>
 run_analysis.R<br>
 This file performs the following analysis:<br>
