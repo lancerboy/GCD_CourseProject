@@ -12,7 +12,7 @@ C. Uses descriptive activity names to name the activities in the data set.<br>
 D. Appropriately labels the data set with descriptive variable names.<br>
 E. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br>
 <br>
-To the dataset obtained from: <br>
+... to the dataset obtained from: <br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 This script assumes that you have downloaded and unzipped the file first and set your working directory to the parent unzipped folder ("UCI HAR Dataset") which contains the rest of the files needed for this script to run.
