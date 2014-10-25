@@ -17,11 +17,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 This script assumes that you have downloaded and unzipped the file first and set your working directory to the parent unzipped folder ("UCI HAR Dataset") which contains the rest of the files needed for this script to run.
 
-The dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone as part of study of 30 participants taking part in 6 different activites listed in the activity_labels.txt file. A full description is available at the site where the data was obtained: 
+The dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone as part of study of 30 participants taking part in 6 different activites listed in the activity_labels.txt file.<br>
+A full description is available at the site where the data was obtained:<br>
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-
-<b><u>CodeBook.md</b></u>
+<b><u>CodeBook.md</b></u><br>
 This describes the variables, the data, and any transformations or work that was performed to clean up the data
 
 License:
